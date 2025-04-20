@@ -6,7 +6,7 @@
 
 ## ポートフォリオ
 - [採用費用計算アプリ](https://github.com/philitan/helptech04)
-- [関係性可視化チャットアプリ]()
+- [関係性可視化チャットアプリ](https://github.com/kenta-afk/data-engineer-hack)
 
 詳細は各リポジトリをご覧ください！
 
