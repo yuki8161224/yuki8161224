@@ -1,7 +1,7 @@
 # 九州大学芸術工学部メディアデザインコース3年の関谷祐希と申します。
 
 - Webアプリケーション開発やWeb・ゲーム制作等を学んでいます
-- 使用技術: HTML / CSS / PHP / Java / Processing / C# など
+- 使用技術: HTML / CSS / PHP / JavaScript / Processing / C# など
 - チーム開発経験あり（Webアプリ制作、ゲーム制作）
 
 ## ポートフォリオ
